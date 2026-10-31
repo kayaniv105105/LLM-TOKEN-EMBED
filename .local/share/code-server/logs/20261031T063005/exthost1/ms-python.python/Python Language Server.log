@@ -1,0 +1,30 @@
+2026-10-31 06:30:59.266 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-39.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-15:19
+2026-10-31 06:30:59.394 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-39.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-3:76
+2026-10-31 06:31:00.310 [info] [Debug - 6:31:00 AM] no definitions found for name "BaseModel" of type 'statement' (1:26)
+2026-10-31 06:31:00.317 [info] [Debug - 6:31:00 AM] no definitions found for name "Field" of type 'statement' (2:17)
+2026-10-31 06:31:00.320 [info] [Debug - 6:31:00 AM] no definitions found for name "JsonOutputParser" of type 'statement' (6:13)
+2026-10-31 06:31:00.323 [info] [Debug - 6:31:00 AM] no definitions found for name "description" of type 'statement' (2:23)
+2026-10-31 06:31:00.328 [info] [Debug - 6:31:00 AM] no definitions found for name "Field" of type 'statement' (3:17)
+2026-10-31 06:31:00.332 [info] [Debug - 6:31:00 AM] no definitions found for name "pydantic_object" of type 'statement' (6:30)
+2026-10-31 06:31:00.337 [info] [Debug - 6:31:00 AM] no definitions found for name "description" of type 'statement' (3:23)
+2026-10-31 06:31:00.343 [info] [Debug - 6:31:00 AM] no definitions found for name "parser" of type 'statement' (8:26)
+2026-10-31 06:31:00.350 [info] [Debug - 6:31:00 AM] no definitions found for name "get_format_instructions" of type 'statement' (8:33)
+2026-10-31 06:31:00.353 [info] [Debug - 6:31:00 AM] no definitions found for name "format_instructions" of type 'statement' (9:36)
+2026-10-31 06:31:00.362 [info] [Debug - 6:31:00 AM] no definitions found for name "Field" of type 'statement' (4:24)
+2026-10-31 06:31:00.363 [info] [Debug - 6:31:00 AM] no definitions found for name "description" of type 'statement' (4:30)
+2026-10-31 06:31:00.369 [info] [Debug - 6:31:00 AM] no definitions found for name "parser" of type 'statement' (12:20)
+2026-10-31 06:31:00.376 [info] [Debug - 6:31:00 AM] no definitions found for name "parse" of type 'statement' (12:27)
+2026-10-31 06:31:00.378 [info] [Debug - 6:31:00 AM] no definitions found for name "simulated_llm_output" of type 'statement' (12:33)
+2026-10-31 06:31:00.384 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-39.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W0sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-4:45
+2026-10-31 06:31:00.389 [info] [Debug - 6:31:00 AM] no definitions found for name "parsed_result" of type 'statement' (14:28)
+2026-10-31 06:31:00.393 [info] [Debug - 6:31:00 AM] no definitions found for name "parsed_result" of type 'statement' (15:24)
+2026-10-31 06:31:00.402 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-39.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-0%20LLM%20Call.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-0:13
+2026-10-31 06:31:00.406 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-39.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-0%20LLM%20Call.ipynb#W0sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-2:30
+2026-10-31 06:31:01.058 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "8": ValueError: not enough values to unpack (expected 1, got 0)
+NoneType: None
+
+2026-10-31 06:31:01.060 [info] [Error - 6:31:01 AM] Request textDocument/semanticTokens/range failed.
+2026-10-31 06:31:01.062 [info]   Message: ValueError: not enough values to unpack (expected 1, got 0)
+  Code: -32603 
+[object Object]
+2026-10-31 06:31:01.077 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-39.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 

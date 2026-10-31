@@ -1,0 +1,136 @@
+2026-10-24 05:13:06.397 [info] semantic_tokens_full file:///voc/work/W4_package/demo/test.py 
+2026-10-24 05:13:06.398 [info] semantic_tokens_range file:///voc/work/W4_package/demo/test.py 0:0-0:0
+2026-10-24 05:13:31.005 [info] semantic_tokens_full file:///voc/work/W4_package/demo/test.py 
+2026-10-24 05:23:50.005 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-1%20Introduction%20to%20Python.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 05:23:50.007 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-1%20Introduction%20to%20Python.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-6:22
+2026-10-24 05:28:08.245 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-1%20Introduction%20to%20Python.ipynb#W4sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 05:28:09.349 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-1%20Introduction%20to%20Python.ipynb#W5sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 05:28:09.353 [info] [Debug - 5:28:09 AM] no definitions found for name "name" of type 'statement' (1:5)
+2026-10-24 05:28:09.926 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-1%20Introduction%20to%20Python.ipynb#W6sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 05:28:09.928 [info] [Debug - 5:28:09 AM] no definitions found for name "age" of type 'statement' (1:5)
+2026-10-24 05:28:10.548 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-1%20Introduction%20to%20Python.ipynb#X10sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 05:28:10.551 [info] [Debug - 5:28:10 AM] no definitions found for name "is_student" of type 'statement' (1:5)
+2026-10-24 05:28:10.667 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-1%20Introduction%20to%20Python.ipynb#X11sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 05:28:10.669 [info] [Debug - 5:28:10 AM] no definitions found for name "weight" of type 'statement' (1:5)
+2026-10-24 07:22:34.229 [info] semantic_tokens_range untitled:Untitled-1 0:0-77:0
+2026-10-24 07:22:34.633 [info] semantic_tokens_full untitled:Untitled-1 
+2026-10-24 07:22:34.680 [info] [Debug - 7:22:34 AM] no definitions found for name "append" of type 'statement' (131:13)
+2026-10-24 07:22:34.682 [info] [Debug - 7:22:34 AM] no definitions found for name "pop" of type 'statement' (134:13)
+2026-10-24 07:22:34.774 [info] [Debug - 7:22:34 AM] no definitions found for name "get" of type 'statement' (203:8)
+2026-10-24 07:22:34.775 [info] [Debug - 7:22:34 AM] no definitions found for name "get" of type 'statement' (206:8)
+2026-10-24 07:22:34.782 [info] semantic_tokens_range untitled:Untitled-1 0:0-74:18
+2026-10-24 07:22:34.827 [info] [Debug - 7:22:34 AM] no definitions found for name "match" of type 'statement' (420:0)
+2026-10-24 07:22:34.828 [info] [Debug - 7:22:34 AM] no definitions found for name "case" of type 'statement' (422:4)
+2026-10-24 07:22:34.833 [info] [Debug - 7:22:34 AM] no definitions found for name "case" of type 'statement' (425:4)
+2026-10-24 07:22:34.838 [info] [Debug - 7:22:34 AM] no definitions found for name "case" of type 'statement' (429:4)
+2026-10-24 07:22:34.843 [info] [Debug - 7:22:34 AM] no definitions found for name "case" of type 'statement' (432:4)
+2026-10-24 07:22:34.848 [info] [Debug - 7:22:34 AM] no definitions found for name "case" of type 'statement' (436:4)
+2026-10-24 07:22:34.852 [info] [Debug - 7:22:34 AM] no definitions found for name "case" of type 'statement' (440:4)
+2026-10-24 07:22:34.857 [info] [Debug - 7:22:34 AM] no definitions found for name "_" of type 'statement' (440:9)
+2026-10-24 07:22:35.201 [info] [Debug - 7:22:35 AM] multiple definitions found for name "is_palindrome" of type 'statement' (633:3):
+ <Name full_name='Untitled-1.is_palindrome', description='is_palindrome = False'>
+<Name full_name='Untitled-1.is_palindrome', description='is_palindrome = True'>
+2026-10-24 07:22:35.221 [info] [Debug - 7:22:35 AM] multiple definitions found for name "reverse" of type 'statement' (775:33):
+ <Name name='reverse', description='param reverse: bool=...'>
+<Name name='reverse', description='param reverse: bool=...'>
+2026-10-24 07:22:35.229 [info] [Debug - 7:22:35 AM] multiple definitions found for name "key" of type 'statement' (788:11):
+ <Name name='key', description='param key: None=...'>
+<Name name='key', description='param key: Callable[[_T], SupportsLessThan]'>
+2026-10-24 07:22:35.230 [info] [Debug - 7:22:35 AM] multiple definitions found for name "key" of type 'statement' (801:35):
+ <Name name='key', description='param key: None=...'>
+<Name name='key', description='param key: Callable[[_T], SupportsLessThan]'>
+2026-10-24 07:22:35.239 [info] [Debug - 7:22:35 AM] multiple definitions found for name "key" of type 'statement' (825:46):
+ <Name name='key', description='param key: None=...'>
+<Name name='key', description='param key: Callable[[_T], SupportsLessThan]'>
+2026-10-24 07:22:35.240 [info] [Debug - 7:22:35 AM] multiple definitions found for name "reverse" of type 'statement' (830:54):
+ <Name name='reverse', description='param reverse: bool=...'>
+<Name name='reverse', description='param reverse: bool=...'>
+2026-10-24 07:22:35.244 [info] [Debug - 7:22:35 AM] multiple definitions found for name "key" of type 'statement' (831:55):
+ <Name name='key', description='param key: None=...'>
+<Name name='key', description='param key: Callable[[_T], SupportsLessThan]'>
+2026-10-24 07:22:35.249 [info] [Debug - 7:22:35 AM] multiple definitions found for name "reverse" of type 'statement' (831:81):
+ <Name name='reverse', description='param reverse: bool=...'>
+<Name name='reverse', description='param reverse: bool=...'>
+2026-10-24 07:22:47.593 [info] semantic_tokens_full untitled:Untitled-1 
+2026-10-24 07:22:47.641 [info] [Debug - 7:22:47 AM] no definitions found for name "append" of type 'statement' (131:13)
+2026-10-24 07:22:47.644 [info] [Debug - 7:22:47 AM] no definitions found for name "pop" of type 'statement' (134:13)
+2026-10-24 07:22:47.679 [info] [Debug - 7:22:47 AM] no definitions found for name "get" of type 'statement' (203:8)
+2026-10-24 07:22:47.681 [info] [Debug - 7:22:47 AM] no definitions found for name "get" of type 'statement' (206:8)
+2026-10-24 07:22:47.770 [info] [Debug - 7:22:47 AM] no definitions found for name "match" of type 'statement' (420:0)
+2026-10-24 07:22:47.770 [info] [Debug - 7:22:47 AM] no definitions found for name "case" of type 'statement' (422:4)
+2026-10-24 07:22:47.775 [info] [Debug - 7:22:47 AM] no definitions found for name "case" of type 'statement' (425:4)
+2026-10-24 07:22:47.779 [info] [Debug - 7:22:47 AM] no definitions found for name "case" of type 'statement' (429:4)
+2026-10-24 07:22:47.784 [info] [Debug - 7:22:47 AM] no definitions found for name "case" of type 'statement' (432:4)
+2026-10-24 07:22:47.788 [info] [Debug - 7:22:47 AM] no definitions found for name "case" of type 'statement' (436:4)
+2026-10-24 07:22:47.793 [info] [Debug - 7:22:47 AM] no definitions found for name "case" of type 'statement' (440:4)
+2026-10-24 07:22:47.798 [info] [Debug - 7:22:47 AM] no definitions found for name "_" of type 'statement' (440:9)
+2026-10-24 07:22:47.802 [info] [Debug - 7:22:47 AM] multiple definitions found for name "is_palindrome" of type 'statement' (633:3):
+ <Name full_name='Untitled-1.is_palindrome', description='is_palindrome = False'>
+<Name full_name='Untitled-1.is_palindrome', description='is_palindrome = True'>
+2026-10-24 07:22:47.816 [info] [Debug - 7:22:47 AM] multiple definitions found for name "reverse" of type 'statement' (775:33):
+ <Name name='reverse', description='param reverse: bool=...'>
+<Name name='reverse', description='param reverse: bool=...'>
+2026-10-24 07:22:47.825 [info] [Debug - 7:22:47 AM] multiple definitions found for name "key" of type 'statement' (788:11):
+ <Name name='key', description='param key: None=...'>
+<Name name='key', description='param key: Callable[[_T], SupportsLessThan]'>
+2026-10-24 07:22:47.826 [info] [Debug - 7:22:47 AM] multiple definitions found for name "key" of type 'statement' (801:35):
+ <Name name='key', description='param key: None=...'>
+<Name name='key', description='param key: Callable[[_T], SupportsLessThan]'>
+2026-10-24 07:22:47.832 [info] [Debug - 7:22:47 AM] multiple definitions found for name "key" of type 'statement' (825:46):
+ <Name name='key', description='param key: None=...'>
+<Name name='key', description='param key: Callable[[_T], SupportsLessThan]'>
+2026-10-24 07:22:47.834 [info] [Debug - 7:22:47 AM] multiple definitions found for name "reverse" of type 'statement' (830:54):
+ <Name name='reverse', description='param reverse: bool=...'>
+<Name name='reverse', description='param reverse: bool=...'>
+2026-10-24 07:22:47.839 [info] [Debug - 7:22:47 AM] multiple definitions found for name "key" of type 'statement' (831:55):
+ <Name name='key', description='param key: None=...'>
+<Name name='key', description='param key: Callable[[_T], SupportsLessThan]'>
+2026-10-24 07:22:47.844 [info] [Debug - 7:22:47 AM] multiple definitions found for name "reverse" of type 'statement' (831:81):
+ <Name name='reverse', description='param reverse: bool=...'>
+<Name name='reverse', description='param reverse: bool=...'>
+2026-10-24 07:23:07.744 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Object%20Oriented%20Programming%20in%20Python.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 07:23:08.576 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Object%20Oriented%20Programming%20in%20Python.ipynb#W3sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 07:23:09.885 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Object%20Oriented%20Programming%20in%20Python.ipynb#W5sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 07:23:09.891 [info] [Debug - 7:23:09 AM] no definitions found for name "Person" of type 'statement' (2:15)
+2026-10-24 07:23:09.892 [info] [Debug - 7:23:09 AM] no definitions found for name "__init__" of type 'statement' (9:16)
+2026-10-24 07:23:09.896 [info] [Debug - 7:23:09 AM] no definitions found for name "get_details" of type 'statement' (20:26)
+2026-10-24 07:23:09.901 [info] [Debug - 7:23:09 AM] no definitions found for name "update" of type 'statement' (22:16)
+2026-10-24 07:23:11.859 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Object%20Oriented%20Programming%20in%20Python.ipynb#X10sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 07:23:11.865 [info] [Debug - 7:23:11 AM] no definitions found for name "Employee" of type 'statement' (2:14)
+2026-10-24 07:23:11.867 [info] [Debug - 7:23:11 AM] no definitions found for name "__init__" of type 'statement' (15:16)
+2026-10-24 07:23:11.870 [info] [Debug - 7:23:11 AM] no definitions found for name "calculate_pay" of type 'statement' (22:27)
+2026-10-24 07:23:11.875 [info] [Debug - 7:23:11 AM] no definitions found for name "get_details" of type 'statement' (29:26)
+2026-10-24 07:23:12.962 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Object%20Oriented%20Programming%20in%20Python.ipynb#X11sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 07:23:12.965 [info] [Debug - 7:23:12 AM] no definitions found for name "Employee" of type 'statement' (2:14)
+2026-10-24 07:23:12.968 [info] [Debug - 7:23:12 AM] no definitions found for name "name" of type 'statement' (3:4)
+2026-10-24 07:23:13.006 [info] [Debug - 7:23:13 AM] no definitions found for name "age" of type 'statement' (3:17)
+2026-10-24 07:23:13.011 [info] [Debug - 7:23:13 AM] no definitions found for name "gender" of type 'statement' (3:25)
+2026-10-24 07:23:13.017 [info] [Debug - 7:23:13 AM] no definitions found for name "department" of type 'statement' (3:40)
+2026-10-24 07:23:13.020 [info] [Debug - 7:23:13 AM] no definitions found for name "salary" of type 'statement' (3:66)
+2026-10-24 07:23:13.428 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Object%20Oriented%20Programming%20in%20Python.ipynb#X12sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 07:23:13.430 [info] [Debug - 7:23:13 AM] no definitions found for name "Manager" of type 'statement' (2:16)
+2026-10-24 07:23:13.434 [info] [Debug - 7:23:13 AM] no definitions found for name "name" of type 'statement' (3:4)
+2026-10-24 07:23:13.438 [info] [Debug - 7:23:13 AM] no definitions found for name "age" of type 'statement' (4:4)
+2026-10-24 07:23:13.443 [info] [Debug - 7:23:13 AM] no definitions found for name "gender" of type 'statement' (5:4)
+2026-10-24 07:23:13.447 [info] [Debug - 7:23:13 AM] no definitions found for name "department" of type 'statement' (6:4)
+2026-10-24 07:23:13.452 [info] [Debug - 7:23:13 AM] no definitions found for name "salary" of type 'statement' (7:4)
+2026-10-24 07:23:13.457 [info] [Debug - 7:23:13 AM] no definitions found for name "team_size" of type 'statement' (8:4)
+2026-10-24 07:23:13.563 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Object%20Oriented%20Programming%20in%20Python.ipynb#X13sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 07:23:13.566 [info] [Debug - 7:23:13 AM] no definitions found for name "json" of type 'statement' (3:6)
+2026-10-24 07:23:13.569 [info] [Debug - 7:23:13 AM] no definitions found for name "dumps" of type 'statement' (3:11)
+2026-10-24 07:23:13.573 [info] [Debug - 7:23:13 AM] no definitions found for name "regular_emp" of type 'statement' (3:17)
+2026-10-24 07:23:13.578 [info] [Debug - 7:23:13 AM] no definitions found for name "get_details" of type 'statement' (3:29)
+2026-10-24 07:23:13.583 [info] [Debug - 7:23:13 AM] no definitions found for name "indent" of type 'statement' (3:44)
+2026-10-24 07:23:14.041 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Object%20Oriented%20Programming%20in%20Python.ipynb#X14sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 07:23:14.044 [info] [Debug - 7:23:14 AM] no definitions found for name "json" of type 'statement' (2:6)
+2026-10-24 07:23:14.047 [info] [Debug - 7:23:14 AM] no definitions found for name "dumps" of type 'statement' (2:11)
+2026-10-24 07:23:14.052 [info] [Debug - 7:23:14 AM] no definitions found for name "store_manager" of type 'statement' (2:17)
+2026-10-24 07:23:14.056 [info] [Debug - 7:23:14 AM] no definitions found for name "get_details" of type 'statement' (2:31)
+2026-10-24 07:23:14.061 [info] [Debug - 7:23:14 AM] no definitions found for name "indent" of type 'statement' (2:46)
+2026-10-24 07:23:14.114 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Object%20Oriented%20Programming%20in%20Python.ipynb#X15sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 07:34:12.094 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-38.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Object%20Oriented%20Programming%20in%20Python.ipynb#X14sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-24 07:34:12.096 [info] [Debug - 7:34:12 AM] no definitions found for name "json" of type 'statement' (2:6)
+2026-10-24 07:34:12.101 [info] [Debug - 7:34:12 AM] no definitions found for name "dumps" of type 'statement' (2:11)
+2026-10-24 07:34:12.106 [info] [Debug - 7:34:12 AM] no definitions found for name "store_manager" of type 'statement' (2:17)
+2026-10-24 07:34:12.110 [info] [Debug - 7:34:12 AM] no definitions found for name "get_details" of type 'statement' (2:31)
+2026-10-24 07:34:12.115 [info] [Debug - 7:34:12 AM] no definitions found for name "indent" of type 'statement' (2:46)

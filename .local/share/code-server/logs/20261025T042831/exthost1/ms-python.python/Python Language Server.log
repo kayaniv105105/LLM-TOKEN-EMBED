@@ -1,0 +1,40 @@
+2026-10-25 04:57:53.000 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "9"
+
+2026-10-25 04:57:53.002 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "6"
+WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "3"
+
+2026-10-25 04:57:53.005 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "8"
+WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "5"
+WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2"
+WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "7"
+WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "4"
+
+2026-10-25 04:57:53.009 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1"
+
+2026-10-25 04:57:53.252 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-93.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-3%20Important%20Python%20Libraries.ipynb#W5sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-1:68
+2026-10-25 04:57:53.311 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-93.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-3%20Important%20Python%20Libraries.ipynb#W4sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-4:66
+2026-10-25 04:57:53.553 [info] [Debug - 4:57:53 AM] no definitions found for name "math" of type 'statement' (2:25)
+2026-10-25 04:57:53.557 [info] [Debug - 4:57:53 AM] no definitions found for name "print" of type 'statement' (2:0)
+2026-10-25 04:57:53.557 [info] [Debug - 4:57:53 AM] no definitions found for name "factorial" of type 'statement' (2:30)
+2026-10-25 04:57:53.561 [info] [Debug - 4:57:53 AM] no definitions found for name "math" of type 'statement' (2:25)
+2026-10-25 04:57:53.564 [info] [Debug - 4:57:53 AM] no definitions found for name "math" of type 'statement' (3:36)
+2026-10-25 04:57:53.568 [info] [Debug - 4:57:53 AM] no definitions found for name "factorial" of type 'statement' (2:30)
+2026-10-25 04:57:53.572 [info] [Debug - 4:57:53 AM] no definitions found for name "comb" of type 'statement' (3:41)
+2026-10-25 04:57:53.576 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-93.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-3%20Important%20Python%20Libraries.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-0:11
+2026-10-25 04:57:53.625 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-93.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-3%20Important%20Python%20Libraries.ipynb#W5sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-25 04:57:53.627 [info] [Debug - 4:57:53 AM] no definitions found for name "perm" of type 'statement' (4:41)
+2026-10-25 04:57:53.630 [info] [Debug - 4:57:53 AM] no definitions found for name "math" of type 'statement' (5:47)
+2026-10-25 04:57:53.634 [info] [Debug - 4:57:53 AM] no definitions found for name "gcd" of type 'statement' (5:52)
+2026-10-25 04:57:53.638 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-93.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-3%20Important%20Python%20Libraries.ipynb#W4sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-25 04:57:53.641 [info] [Debug - 4:57:53 AM] no definitions found for name "print" of type 'statement' (2:0)
+2026-10-25 04:57:53.644 [info] [Debug - 4:57:53 AM] no definitions found for name "numbers" of type 'statement' (2:36)
+2026-10-25 04:57:53.647 [info] [Debug - 4:57:53 AM] no definitions found for name "math" of type 'statement' (2:47)
+2026-10-25 04:57:53.650 [info] [Debug - 4:57:53 AM] no definitions found for name "prod" of type 'statement' (2:52)
+2026-10-25 04:57:53.654 [info] [Debug - 4:57:53 AM] no definitions found for name "numbers" of type 'statement' (2:57)
+2026-10-25 04:57:53.658 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-93.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-3%20Important%20Python%20Libraries.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-25 04:57:53.661 [info] [Debug - 4:57:53 AM] no definitions found for name "print" of type 'statement' (2:0)
+2026-10-25 04:57:53.664 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-93.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-3%20Important%20Python%20Libraries.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-10-25 04:57:53.668 [info] [Debug - 4:57:53 AM] no definitions found for name "print" of type 'statement' (3:0)
+2026-10-25 04:57:53.671 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-93.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-3%20Important%20Python%20Libraries.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-0:11
+2026-10-25 04:57:53.692 [info] [Debug - 4:57:53 AM] no definitions found for name "print" of type 'statement' (4:0)
+2026-10-25 04:57:53.692 [info] [Debug - 4:57:53 AM] no definitions found for name "print" of type 'statement' (5:0)

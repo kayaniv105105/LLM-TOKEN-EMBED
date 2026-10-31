@@ -1,0 +1,11 @@
+2026-10-24 04:16:54.076 [info] 
+
+
+
+
+2026-10-24 04:16:54.107 [info] Extension host agent started.
+2026-10-24 04:16:54.130 [info] Started initializing default profile extensions in extensions installation folder. file:///voc/work/.local/share/code-server/extensions
+2026-10-24 04:16:54.162 [info] Completed initializing default profile extensions in extensions installation folder. file:///voc/work/.local/share/code-server/extensions
+2026-10-24 04:17:02.312 [info] [172.16.13.129][24663fda][ManagementConnection] New connection established.
+2026-10-24 04:17:05.310 [info] [172.16.13.129][7f32f870][ExtensionHostConnection] New connection established.
+2026-10-24 04:17:05.327 [info] [172.16.13.129][7f32f870][ExtensionHostConnection] <75> Launched Extension Host Process.
