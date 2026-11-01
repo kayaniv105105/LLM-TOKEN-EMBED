@@ -37,5 +37,6 @@
         "/bin/python",
         "/bin/python3.8",
         "/usr/bin/python3.8"
-    ]
+    ],
+    "git.enableSmartCommit": true
 }

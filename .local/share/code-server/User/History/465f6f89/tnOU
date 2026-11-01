@@ -1,0 +1,89 @@
+new change
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   .cache/huggingface/hub/version.txt
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-0c6e2a03594c8eb0ec9b1f59ecebaae6fc43f2a6bcd0af02cbfc8664ca7cf039.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-13ffe7f0898af95454d14b63320d4ce503456a64ebf2fe8eab16cd7fde0a4cfa.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-1b786706c1d75b4b6d824eca680e19d1175486e8d98e17c376374083a38a701b.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-20dd8b698cd446e08853a1af77dfe5065fc4031d38fafecdbc6b65255ef725f0.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-28fb469c1589b1052111d55db46043a7e2b88c560f80e91e59d913ceae820c02.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-305efe82767a8a14a9d0784912a286f8b4bd6a39b8701a65c5ba12081572fe9c.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-3fe02dc08499887a254da418b2c914d58bf4df88e25e52572f4c6cc83a0e4287.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-451191f5cdca9d16540a4879ccd8f96412646f36c97c4c645bb3f72266a02752.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-567ebc1c6e87ed10ccd8ca42a867aaffb0aa100996dd818def4c2c614b0187fb.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-56e8264d9b581a3ea76edbbe03b2c4c8e131ff777ca540d3d2875e6d440bb56f.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-6e43edc87a82fb31d417768b072bc803617034b69e79d8a9ba7c5bfa9aca41a8.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-832db2257f20b440288a5a1c1ea9b32386c47f6b03bcefb61a639fff5be583c4.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-9529e3b6c42cacf789604740052a6e086ba62ad15706d8a118f0398bb2827ef3.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-9e310718662269d203a4dd80a6f76389d0d6d20e1779f71789cb1ba844096343.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-a3357c39951f7d4c49a33da5bfe60a75fcb2246164124c69b7f9e98b743ad3c7.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-e9cd546b70ec93d873c309c34ece6c624178bd309d76fa29958edb958f7ae602.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-ee315fc2588a3ea1addccffa2832806c288ccfea09d54399a1cc75aa1367d001.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-f64fb24adec2a90c15c1ebe584b35004565401bd057a38ea96e12f6ca0cf8fe0.pkl
+#	new file:   .claude/ide/54484.lock
+#	modified:   .ipython/profile_default/history.sqlite
+#	new file:   .local/share/code-server/User/History/-215ac22d/W2ML
+#	new file:   .local/share/code-server/User/History/-215ac22d/entries.json
+#	new file:   .local/share/code-server/User/History/-57a13221/0eHg.ipynb
+#	new file:   .local/share/code-server/User/History/-57a13221/Oax1.ipynb
+#	new file:   .local/share/code-server/User/History/-57a13221/RGr6.ipynb
+#	new file:   .local/share/code-server/User/History/-57a13221/XZjL.ipynb
+#	new file:   .local/share/code-server/User/History/-57a13221/entries.json
+#	new file:   .local/share/code-server/User/History/-57a13221/fX7j.ipynb
+#	new file:   .local/share/code-server/User/History/322277d1/9zMI.ipynb
+#	new file:   .local/share/code-server/User/History/322277d1/XDxd.ipynb
+#	new file:   .local/share/code-server/User/History/322277d1/entries.json
+#	new file:   .local/share/code-server/User/History/39b8f510/4ELK.ipynb
+#	new file:   .local/share/code-server/User/History/39b8f510/entries.json
+#	new file:   .local/share/code-server/User/History/39b8f510/gld5.ipynb
+#	new file:   .local/share/code-server/User/caches/CachedConfigurations/folder/631d0747/configuration.json
+#	new file:   .local/share/code-server/User/workspaceStorage/-3fa9382/meta.json
+#	new file:   .local/share/code-server/User/workspaceStorage/-3fa9382/vscode.lock
+#	modified:   .local/share/code-server/coder-logs/code-server-stderr.log
+#	modified:   .local/share/code-server/coder-logs/code-server-stdout.log
+#	modified:   .local/share/code-server/logs/20261031T063005/exthost1/ms-python.python/Python.log
+#	modified:   .local/share/code-server/logs/20261031T063005/exthost1/output_logging_20261031T063019/3-Jupyter.log
+#	modified:   .local/share/code-server/logs/20261031T063005/exthost1/remoteexthost.log
+#	modified:   .local/share/code-server/logs/20261031T063005/exthost1/vscode.git/Git.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/vscode.github-authentication/GitHub Authentication.log
+#	modified:   .local/share/code-server/logs/20261031T063005/exthost1/vscode.github/GitHub.log
+#	modified:   .local/share/code-server/logs/20261031T063005/remoteagent.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/Anthropic.claude-code/Claude Code.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/dbaeumer.vscode-eslint/ESLint.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/ms-python.python/Python Language Server.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/ms-python.python/Python.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/output_logging_20261101T043545/1-Database Client.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/output_logging_20261101T043545/2-.NET Install Tool.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/output_logging_20261101T043545/3-Jupyter.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/output_logging_20261101T043545/4-Jupyter Server Console.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/output_logging_20261101T043545/5-Tensorboard.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/remoteExtHostTelemetry.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/remoteexthost.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/vscode.git/Git.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/vscode.github-authentication/GitHub Authentication.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/vscode.github/GitHub.log
+#	new file:   .local/share/code-server/logs/20261101T043532/exthost1/vscode.json-language-features/JSON Language Server.log
+#	new file:   .local/share/code-server/logs/20261101T043532/ptyhost.log
+#	new file:   .local/share/code-server/logs/20261101T043532/remoteagent.log
+#	new file:   .local/share/jupyter/runtime/kernel-v333af46bd1895020075a73395e3a47f16be5c2e16.json
+#	new file:   .local/share/jupyter/runtime/kernel-v33b9fa8ef8f5804b33eb9c47c828f9f6815e22577.json
+#	new file:   .local/share/jupyter/runtime/kernel-v3d80994ad821be540ee3f5bf59b595c622f2c2039.json
+#	modified:   W4_package/demo/Week 4-1 Counting Tokens.ipynb
+#	modified:   W4_package/demo/Week 4-2 Output Parsers.ipynb
+#	new file:   W4_package/demo/Week 4-3 Prompt Caching Demonstration.ipynb
+#	new file:   W4_package/demo/Week 4-4 Tool Calling with OpenAI.ipynb
+#	new file:   git
+#
+# Changes not staged for commit:
+#	modified:   .local/share/code-server/User/History/2fa6f9b9/entries.json
+#	modified:   .local/share/code-server/User/settings.json
+#	modified:   .local/share/code-server/logs/20261101T043532/exthost1/vscode.git/Git.log
+#
+# Untracked files:
+#	.local/share/code-server/User/History/2fa6f9b9/Ipeu.json
+#
