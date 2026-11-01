@@ -7,3 +7,10 @@
 2026-10-31 06:30:14.343 [info] [172.16.1.1][00425cc5][ManagementConnection] New connection established.
 2026-10-31 06:30:17.466 [info] [172.16.1.1][263a034f][ExtensionHostConnection] New connection established.
 2026-10-31 06:30:17.482 [info] [172.16.1.1][263a034f][ExtensionHostConnection] <72> Launched Extension Host Process.
+2026-10-31 08:09:01.634 [info] [172.16.1.1][263a034f][ExtensionHostConnection] The client has reconnected.
+2026-10-31 08:09:02.218 [info] [172.16.1.1][00425cc5][ManagementConnection] The client has reconnected.
+2026-10-31 08:34:19.991 [info] [172.16.1.1][00425cc5][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-10-31 09:02:54.585 [info] [172.16.1.1][00425cc5][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2026-10-31 09:02:54.587 [info] [172.16.1.1][00425cc5][ManagementConnection] The client has reconnected.
+2026-10-31 09:02:54.640 [info] [172.16.1.1][263a034f][ExtensionHostConnection] The client has reconnected.
+2026-10-31 09:35:51.974 [info] [172.16.1.1][00425cc5][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

@@ -39,3 +39,5 @@
 2026-10-31 06:30:55.609 [info] Environment refresh took 1327 milliseconds
 2026-10-31 06:30:55.622 [info] Python interpreter path: /bin/python
 2026-10-31 06:30:57.516 [info] Starting Jedi language server for work.
+2026-10-31 06:34:35.607 [info] Active interpreter [/voc/work/W4_package/demo/Week 4-0 LLM Call.ipynb]:  /bin/python
+2026-10-31 06:35:19.809 [info] Active interpreter [/voc/work/W4_package/demo/Week 4-1 Counting Tokens.ipynb]:  /bin/python

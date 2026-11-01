@@ -9,3 +9,51 @@ Temp Storage folder ~/.local/share/code-server/User/globalStorage/ms-toolsai.jup
 Workspace folder /voc/work
 06:30:53.343 [info] Telemetry level is off
 06:30:53.343 [info] Experiments are disabled, only manually opted experiments are active.
+06:34:35.608 [info] Starting Kernel (Python Path: /bin/python, Unknown, 3.10.14) for '~/W4_package/demo/Week 4-0 LLM Call.ipynb' (disableUI=true)
+06:34:35.638 [warn] Failed to get activated env vars for /bin/python in 636ms
+06:34:35.662 [info] Process Execution: /bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+06:34:35.738 [info] Process Execution: /bin/python -m pip list
+06:34:36.229 [warn] Failed to get activated env vars for /bin/python in 605ms
+06:34:36.271 [info] Process Execution: /bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+06:34:36.335 [info] Process Execution: /bin/python -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v3d80994ad821be540ee3f5bf59b595c622f2c2039.json
+    > cwd: ~/W4_package/demo
+06:34:38.695 [info] Kernel successfully started
+06:34:38.723 [info] Process Execution: /bin/python /usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-toolsai.jupyter-2025.7.0/pythonFiles/printJupyterDataDir.py
+06:34:39.669 [error] Widget Error: Failed to access CDN https://unpkg.com/ after 0 attempt(s), TypeError: Failed to fetch
+06:35:19.539 [info] Starting Kernel (Python Path: /bin/python, Unknown, 3.10.14) for '~/W4_package/demo/Week 4-1 Counting Tokens.ipynb' (disableUI=false)
+06:35:20.111 [warn] Failed to get activated env vars for /bin/python in 564ms
+06:35:20.148 [info] Process Execution: /bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+06:35:20.191 [info] Process Execution: /bin/python -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v3b87ee4c4b2c18974addeed11dbb849fb3c4f5fef.json
+    > cwd: ~/W4_package/demo
+06:35:23.285 [info] Kernel successfully started
+06:35:24.134 [error] Widget Error: Failed to access CDN https://unpkg.com/ after 0 attempt(s), TypeError: Failed to fetch
+06:35:42.720 [info] Restart requested ~/W4_package/demo/Week 4-1 Counting Tokens.ipynb
+06:35:43.335 [warn] Failed to get activated env vars for /bin/python in 565ms
+06:35:43.376 [info] Process Execution: /bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+06:35:43.419 [info] Process Execution: /bin/python -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v33b9fa8ef8f5804b33eb9c47c828f9f6815e22577.json
+    > cwd: ~/W4_package/demo
+06:35:46.091 [info] Restarted 0d5fac37-b8a7-450f-826e-3f5c204026b8
+06:41:59.100 [warn] Cell completed with errors [vu [Error]: name 'response' is not defined
+	at n.execute (/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-toolsai.jupyter-2025.7.0/dist/extension.node.js:302:4958)] {
+  ename: 'NameError',
+  evalue: "name 'response' is not defined",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mNameError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[5], line 1\x1B[0m\n\x1B[0;32m----> 1\x1B[0m \x1B[43mresponse\x1B[49m\n',
+    "\x1B[0;31mNameError\x1B[0m: name 'response' is not defined"
+  ]
+}
+06:42:04.121 [warn] Cell completed with errors [vu [Error]: name 'response' is not defined
+	at n.execute (/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-toolsai.jupyter-2025.7.0/dist/extension.node.js:302:4958)] {
+  ename: 'NameError',
+  evalue: "name 'response' is not defined",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mNameError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[8], line 1\x1B[0m\n\x1B[0;32m----> 1\x1B[0m \x1B[43mresponse\x1B[49m\n',
+    "\x1B[0;31mNameError\x1B[0m: name 'response' is not defined"
+  ]
+}
+06:42:10.494 [info] Disposing request as the cell (-1) was deleted ~/W4_package/demo/Week 4-0 LLM Call.ipynb
+06:42:10.494 [info] Disposing request as the cell (-1) was deleted ~/W4_package/demo/Week 4-0 LLM Call.ipynb

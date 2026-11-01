@@ -1,0 +1,212 @@
+LLM week 4 Token
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .bashrc
+#	new file:   .cache/Microsoft/DeveloperTools/deviceid
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-10cae1c2fac8c0ea9800ea6219a8493f984cc86be6fa1338ffd34bd0a7416d14.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-1b12d768f9843723d9c6768120f52e8dc543c5908ee2f262b043ed1627214c34.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-2139d42479367196280f36c976b9e46fd1997607ebc41a231c0a9ddc4aeeac50.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-2226fcfad8ed42c16f00d3f53cb78358455ad44f2f9936337cdc6e21bb0b7015.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-55f58fa0e8b4e1e14bf11a185ef6759b54f546be913d6c58fad34fcd7584f9c7.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-5733a945892f7b191c26654a3a4008f4744d00e81254c62c3dd0e12b350a3429.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-894c185192d0749d4a0b82825a25a38f2dd358881ad614cb1b576012de06498a.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-956f1306a58278d4b7341dbaece69bfdc4f336325a7949d631b4c50fb86e379d.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-acdf83cf294984a33321d4e5a53996fe37c26c86d193a5ed87eb61c9d650f50b.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-c0ebcab3eb1f76d26d21cae8856873d17e40d703caa5b36b49672f70dcfbb6de.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-c4ec5fbc16b9ea5432c491cccc58c46206005a99df8283a4b71ae20cd56b4436.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-c6307b6e0b7526b1607569a90ef3fc9d4e18fc1dbf4ebb018ec35c11c09c3e8a.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-cc00782a33470645a250212f6064615c6bacf48a739f9178bdb58e5fe523c9d1.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-ccac85c7289d28138ac39a0fa83fa2e49ccd34f339c69ff7db16fd5c294b8182.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-dca079849d10f3cecef8e6a669b60e6dda46429601134b862f8af549fec43f51.pkl
+#	new file:   .cache/jedi/CPython-310-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-e8d4c0db9faa4eac98c70c6a5b0d0df0820e6cc588e2ffbf541fb5d27eeeaacb.pkl
+#	new file:   .cache/jedi/PARSO-CACHE-LOCK
+#	new file:   .claude/ide/14957.lock
+#	new file:   .claude/ide/21510.lock
+#	new file:   .config/code-server/config.yaml
+#	new file:   .dbclient/cache/meta.json
+#	new file:   .gitconfig
+#	new file:   .ipython/profile_default/history.sqlite
+#	new file:   .ipython/profile_default/startup/README
+#	new file:   .local/share/code-server/CachedProfilesData/__default__profile__/extensions.builtin.cache
+#	new file:   .local/share/code-server/CachedProfilesData/__default__profile__/extensions.user.cache
+#	new file:   .local/share/code-server/User/History/-7245574d/ZAa7.ipynb
+#	new file:   .local/share/code-server/User/History/-7245574d/entries.json
+#	new file:   .local/share/code-server/User/History/2fa6f9b9/0X72.json
+#	new file:   .local/share/code-server/User/History/2fa6f9b9/entries.json
+#	new file:   .local/share/code-server/User/caches/CachedConfigurations/defaults/configurationDefaultsOverrides/configuration.json
+#	new file:   .local/share/code-server/User/caches/CachedConfigurations/folder/-2361b670/configuration.json
+#	new file:   .local/share/code-server/User/caches/CachedConfigurations/folder/49dcb145/configuration.json
+#	new file:   .local/share/code-server/User/caches/CachedConfigurations/folder/693e7491/configuration.json
+#	new file:   .local/share/code-server/User/customBuiltinExtensionsCache.json
+#	new file:   .local/share/code-server/User/machineid
+#	new file:   .local/share/code-server/User/settings.json
+#	new file:   .local/share/code-server/User/systemExtensionsCache.json
+#	new file:   .local/share/code-server/User/workspaceStorage/-7b5a3c38/meta.json
+#	new file:   .local/share/code-server/User/workspaceStorage/-7b5a3c38/vscode.lock
+#	new file:   .local/share/code-server/User/workspaceStorage/55f47c/meta.json
+#	new file:   .local/share/code-server/User/workspaceStorage/6ce07c7/meta.json
+#	new file:   .local/share/code-server/User/workspaceStorage/6ce07c7/vscode.lock
+#	new file:   .local/share/code-server/coder-logs/code-server-stderr.log
+#	new file:   .local/share/code-server/coder-logs/code-server-stdout.log
+#	new file:   .local/share/code-server/coder.json
+#	new file:   .local/share/code-server/extensions/extensions.json
+#	new file:   .local/share/code-server/heartbeat
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/Anthropic.claude-code/Claude Code.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/dbaeumer.vscode-eslint/ESLint.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/ms-python.python/Python Language Server.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/ms-python.python/Python.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/output_logging_20261024T041706/1-Database Client.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/output_logging_20261024T041706/2-.NET Install Tool.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/output_logging_20261024T041706/3-Jupyter.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/output_logging_20261024T041706/4-Jupyter Server Console.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/output_logging_20261024T041706/5-Tensorboard.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/remoteExtHostTelemetry.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/remoteexthost.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/vscode.git/Git.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/vscode.github/GitHub.log
+#	new file:   .local/share/code-server/logs/20261024T041653/exthost1/vscode.json-language-features/JSON Language Server.log
+#	new file:   .local/share/code-server/logs/20261024T041653/ptyhost.log
+#	new file:   .local/share/code-server/logs/20261024T041653/remoteagent.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/Anthropic.claude-code/Claude Code.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/dbaeumer.vscode-eslint/ESLint.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1792902528073.txt
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/ms-python.python/Python Language Server.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/ms-python.python/Python.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/output_logging_20261025T042845/1-Database Client.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/output_logging_20261025T042845/2-.NET Install Tool.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/output_logging_20261025T042845/3-Jupyter.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/output_logging_20261025T042845/4-Jupyter Server Console.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/output_logging_20261025T042845/5-Tensorboard.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/remoteExtHostTelemetry.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/remoteexthost.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/vscode.git/Git.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/vscode.github/GitHub.log
+#	new file:   .local/share/code-server/logs/20261025T042831/exthost1/vscode.json-language-features/JSON Language Server.log
+#	new file:   .local/share/code-server/logs/20261025T042831/ptyhost.log
+#	new file:   .local/share/code-server/logs/20261025T042831/remoteagent.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/Anthropic.claude-code/Claude Code.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/dbaeumer.vscode-eslint/ESLint.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/ms-python.python/Python Language Server.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/ms-python.python/Python.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/output_logging_20261031T063019/1-Database Client.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/output_logging_20261031T063019/2-.NET Install Tool.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/output_logging_20261031T063019/3-Jupyter.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/output_logging_20261031T063019/4-Jupyter Server Console.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/output_logging_20261031T063019/5-Tensorboard.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/remoteExtHostTelemetry.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/remoteexthost.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/vscode.git/Git.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/vscode.github/GitHub.log
+#	new file:   .local/share/code-server/logs/20261031T063005/exthost1/vscode.json-language-features/JSON Language Server.log
+#	new file:   .local/share/code-server/logs/20261031T063005/ptyhost.log
+#	new file:   .local/share/code-server/logs/20261031T063005/remoteagent.log
+#	new file:   .local/share/code-server/serve-web-key-half
+#	new file:   .local/share/jupyter/runtime/kernel-v30f7cdaf3f36d4f5783f3a36491ea5dd4a0802a2e.json
+#	new file:   .voc/.voc
+#	new file:   .voc/.voc_api.json
+#	new file:   W4_Practice_Assignment_Solution_Activity/AI-RAG_W4_Practice_Assignment.md
+#	new file:   W4_Practice_Assignment_Solution_Activity/W4_Activity_Solution.md
+#	new file:   W4_Practice_Assignment_Solution_Activity/compare_three_models.py
+#	new file:   W4_Practice_Assignment_Solution_Activity/ollama_integration_snippet.py
+#	new file:   W4_Practice_Assignment_Solution_Activity/sample_lab4-ollama-activity.md
+#	new file:   W4_package/RUN_W4.md
+#	new file:   W4_package/RUN_W4.sh
+#	new file:   W4_package/data/questions.csv
+#	new file:   W4_package/demo/Week 4-0 LLM Call.ipynb
+#	new file:   W4_package/demo/Week 4-1 Counting Tokens.ipynb
+#	new file:   W4_package/demo/Week 4-1 Introduction to Python.ipynb
+#	new file:   W4_package/demo/Week 4-2 Object Oriented Programming in Python.ipynb
+#	new file:   W4_package/demo/Week 4-2 Output Parsers.ipynb
+#	new file:   W4_package/demo/Week 4-3 Important Python Libraries.ipynb
+#	new file:   W4_package/demo/diabetes.csv
+#	new file:   W4_package/demo/test.ipynb
+#	new file:   W4_package/demo/test.py
+#	new file:   W4_package/logs/_SUMMARY.log
+#	new file:   W4_package/logs/_uvicorn_real.log
+#	new file:   W4_package/logs/step0_imports_ok.log
+#	new file:   W4_package/logs/step0_openai_key.log
+#	new file:   W4_package/logs/step0_pip_install.log
+#	new file:   W4_package/logs/step0_python_version.log
+#	new file:   W4_package/logs/step10_pytest.log
+#	new file:   W4_package/logs/step1_layout_complete.log
+#	new file:   W4_package/logs/step2_cost_diff_models.log
+#	new file:   W4_package/logs/step2_cost_known_model.log
+#	new file:   W4_package/logs/step2_cost_rates_dict.log
+#	new file:   W4_package/logs/step3_answer_defaults.log
+#	new file:   W4_package/logs/step3_answer_w3_compat.log
+#	new file:   W4_package/logs/step3_question_shape.log
+#	new file:   W4_package/logs/step4_store_ensure_schema.log
+#	new file:   W4_package/logs/step4_store_idempotent.log
+#	new file:   W4_package/logs/step4_store_save_query.log
+#	new file:   W4_package/logs/step5_answer_tool.log
+#	new file:   W4_package/logs/step5_ask_llm_fake.log
+#	new file:   W4_package/logs/step6_app_imports.log
+#	new file:   W4_package/logs/step6_ask_batched_w4.log
+#	new file:   W4_package/logs/step6_ask_streaming.log
+#	new file:   W4_package/logs/step6_health.log
+#	new file:   W4_package/logs/step7_curl_ask_batched.log
+#	new file:   W4_package/logs/step7_curl_health.log
+#	new file:   W4_package/logs/step7_uvicorn_start.log
+#	new file:   W4_package/logs/step7_uvicorn_stop.log
+#	new file:   W4_package/logs/step8_migrate_idempotent.log
+#	new file:   W4_package/logs/step8_migrate_lab_command.log
+#	new file:   W4_package/logs/step8_migrate_with_pythonpath.log
+#	new file:   W4_package/logs/step9_compare_models_lab_command.log
+#	new file:   W4_package/logs/step9_compare_models_parses.log
+#	new file:   W4_package/logs/step9_compare_models_with_pythonpath.log
+#	new file:   W4_package/pytest.ini
+#	new file:   W4_package/reference/adr_0002_extended.md
+#	new file:   W4_package/reference/anthropic_reference.py
+#	new file:   W4_package/reference/compare_models.py
+#	new file:   W4_package/reference/cost_reference.py
+#	new file:   W4_package/reference/cost_starter.py
+#	new file:   W4_package/reference/lab4_comparison_template.md
+#	new file:   W4_package/reference/migrate_store.py
+#	new file:   W4_package/reference/models_reference.py
+#	new file:   W4_package/reference/models_starter.py
+#	new file:   W4_package/reference/pipeline_reference.py
+#	new file:   W4_package/reference/pipeline_starter.py
+#	new file:   W4_package/requirements.txt
+#	new file:   W4_package/results.db
+#	new file:   W4_package/scripts/__pycache__/compare_models.cpython-310.pyc
+#	new file:   W4_package/scripts/compare_models.py
+#	new file:   W4_package/scripts/migrate_store.py
+#	new file:   W4_package/src/__init__.py
+#	new file:   W4_package/src/__pycache__/__init__.cpython-310.pyc
+#	new file:   W4_package/src/api/__init__.py
+#	new file:   W4_package/src/api/__pycache__/__init__.cpython-310.pyc
+#	new file:   W4_package/src/api/__pycache__/main.cpython-310.pyc
+#	new file:   W4_package/src/api/main.py
+#	new file:   W4_package/src/pipeline/__init__.py
+#	new file:   W4_package/src/pipeline/__pycache__/__init__.cpython-310.pyc
+#	new file:   W4_package/src/pipeline/__pycache__/cost.cpython-310.pyc
+#	new file:   W4_package/src/pipeline/__pycache__/models.cpython-310.pyc
+#	new file:   W4_package/src/pipeline/__pycache__/pipeline.cpython-310.pyc
+#	new file:   W4_package/src/pipeline/__pycache__/settings.cpython-310.pyc
+#	new file:   W4_package/src/pipeline/__pycache__/store.cpython-310.pyc
+#	new file:   W4_package/src/pipeline/cost.py
+#	new file:   W4_package/src/pipeline/fake_llm.py
+#	new file:   W4_package/src/pipeline/logging_config.py
+#	new file:   W4_package/src/pipeline/models.py
+#	new file:   W4_package/src/pipeline/pipeline.py
+#	new file:   W4_package/src/pipeline/query_results.py
+#	new file:   W4_package/src/pipeline/settings.py
+#	new file:   W4_package/src/pipeline/store.py
+#	new file:   W4_package/tests/__init__.py
+#	new file:   W4_package/tests/__pycache__/__init__.cpython-310.pyc
+#	new file:   W4_package/tests/__pycache__/conftest.cpython-310-pytest-8.4.2.pyc
+#	new file:   W4_package/tests/__pycache__/test_cost.cpython-310-pytest-8.4.2.pyc
+#	new file:   W4_package/tests/__pycache__/test_pipeline_w4.cpython-310-pytest-8.4.2.pyc
+#	new file:   W4_package/tests/conftest.py
+#	new file:   W4_package/tests/test_cost.py
+#	new file:   W4_package/tests/test_pipeline_w4.py
+#
+# Changes not staged for commit:
+#	modified:   .local/share/code-server/logs/20261031T063005/exthost1/vscode.git/Git.log
+#

@@ -1,0 +1,821 @@
+2026-11-01 04:36:25.274 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-4%20Tool%20Calling%20with%20OpenAI.ipynb#W3sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-26:5
+2026-11-01 04:36:25.278 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-4%20Tool%20Calling%20with%20OpenAI.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-0:17
+2026-11-01 04:36:25.405 [info] [Debug - 4:36:25 AM] no definitions found for name "OpenAI" of type 'statement' (1:9)
+2026-11-01 04:36:25.410 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-4%20Tool%20Calling%20with%20OpenAI.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-0:13
+2026-11-01 04:36:25.417 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-4%20Tool%20Calling%20with%20OpenAI.ipynb#W0sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-3:30
+2026-11-01 04:36:25.466 [info] [Debug - 4:36:25 AM] no definitions found for name "json" of type 'statement' (7:11)
+2026-11-01 04:36:25.466 [info] [Debug - 4:36:25 AM] no definitions found for name "dumps" of type 'statement' (7:16)
+2026-11-01 04:36:25.471 [info] [Debug - 4:36:25 AM] no definitions found for name "json" of type 'statement' (11:11)
+2026-11-01 04:36:25.476 [info] [Debug - 4:36:25 AM] no definitions found for name "dumps" of type 'statement' (11:16)
+2026-11-01 04:36:25.480 [info] [Debug - 4:36:25 AM] no definitions found for name "json" of type 'statement' (20:11)
+2026-11-01 04:36:25.485 [info] [Debug - 4:36:25 AM] no definitions found for name "dumps" of type 'statement' (20:16)
+2026-11-01 04:36:25.489 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-4%20Tool%20Calling%20with%20OpenAI.ipynb#W3sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:36:25.493 [info] [Debug - 4:36:25 AM] no definitions found for name "json" of type 'statement' (7:11)
+2026-11-01 04:36:25.497 [info] [Debug - 4:36:25 AM] no definitions found for name "dumps" of type 'statement' (7:16)
+2026-11-01 04:36:25.502 [info] [Debug - 4:36:25 AM] no definitions found for name "json" of type 'statement' (11:11)
+2026-11-01 04:36:25.506 [info] [Debug - 4:36:25 AM] no definitions found for name "dumps" of type 'statement' (11:16)
+2026-11-01 04:36:25.510 [info] [Debug - 4:36:25 AM] no definitions found for name "json" of type 'statement' (20:11)
+2026-11-01 04:36:25.515 [info] [Debug - 4:36:25 AM] no definitions found for name "dumps" of type 'statement' (20:16)
+2026-11-01 04:36:25.520 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-4%20Tool%20Calling%20with%20OpenAI.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:36:25.524 [info] [Debug - 4:36:25 AM] no definitions found for name "OpenAI" of type 'statement' (1:9)
+2026-11-01 04:36:25.528 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-4%20Tool%20Calling%20with%20OpenAI.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:36:25.533 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-4%20Tool%20Calling%20with%20OpenAI.ipynb#W0sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:36:25.811 [info] [Debug - 4:36:25 AM] no definitions found for name "module OpenAI" of type 'module' (2:19)
+2026-11-01 04:36:25.916 [info] [Debug - 4:36:25 AM] no definitions found for name "module load_dotenv" of type 'module' (4:19)
+2026-11-01 04:37:07.043 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-0%20LLM%20Call.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:37:07.047 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-0%20LLM%20Call.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:37:07.050 [info] [Debug - 4:37:07 AM] no definitions found for name "OpenAI" of type 'statement' (4:13)
+2026-11-01 04:37:07.054 [info] [Debug - 4:37:07 AM] no definitions found for name "query" of type 'statement' (9:36)
+2026-11-01 04:37:07.059 [info] [Debug - 4:37:07 AM] no definitions found for name "client" of type 'statement' (16:19)
+2026-11-01 04:37:07.063 [info] [Debug - 4:37:07 AM] no definitions found for name "chat" of type 'statement' (16:26)
+2026-11-01 04:37:07.067 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-0%20LLM%20Call.ipynb#W0sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:37:07.071 [info] [Debug - 4:37:07 AM] no definitions found for name "completions" of type 'statement' (16:31)
+2026-11-01 04:37:07.075 [info] [Debug - 4:37:07 AM] no definitions found for name "create" of type 'statement' (16:43)
+2026-11-01 04:37:07.079 [info] [Debug - 4:37:07 AM] no definitions found for name "model" of type 'statement' (17:12)
+2026-11-01 04:37:07.083 [info] [Debug - 4:37:07 AM] no definitions found for name "messages" of type 'statement' (18:12)
+2026-11-01 04:37:07.088 [info] [Debug - 4:37:07 AM] no definitions found for name "messages" of type 'statement' (18:21)
+2026-11-01 04:37:07.092 [info] [Debug - 4:37:07 AM] no definitions found for name "temperature" of type 'statement' (19:12)
+2026-11-01 04:37:07.096 [info] [Debug - 4:37:07 AM] no definitions found for name "max_tokens" of type 'statement' (20:12)
+2026-11-01 04:37:07.101 [info] [Debug - 4:37:07 AM] no definitions found for name "response" of type 'statement' (27:17)
+2026-11-01 04:37:07.104 [info] [Debug - 4:37:07 AM] no definitions found for name "choices" of type 'statement' (27:26)
+2026-11-01 04:37:07.109 [info] [Debug - 4:37:07 AM] no definitions found for name "choice" of type 'statement' (28:26)
+2026-11-01 04:37:07.114 [info] [Debug - 4:37:07 AM] no definitions found for name "message" of type 'statement' (28:33)
+2026-11-01 04:37:07.118 [info] [Debug - 4:37:07 AM] no definitions found for name "content" of type 'statement' (28:41)
+2026-11-01 04:37:07.122 [info] [Debug - 4:37:07 AM] no definitions found for name "choice" of type 'statement' (29:24)
+2026-11-01 04:37:07.126 [info] [Debug - 4:37:07 AM] no definitions found for name "finish_reason" of type 'statement' (29:31)
+2026-11-01 04:37:07.130 [info] [Debug - 4:37:07 AM] no definitions found for name "response" of type 'statement' (31:29)
+2026-11-01 04:37:07.134 [info] [Debug - 4:37:07 AM] no definitions found for name "model" of type 'statement' (31:38)
+2026-11-01 04:37:07.138 [info] [Debug - 4:37:07 AM] no definitions found for name "finish_reason" of type 'statement' (32:32)
+2026-11-01 04:37:07.142 [info] [Debug - 4:37:07 AM] no definitions found for name "response" of type 'statement' (35:16)
+2026-11-01 04:37:07.146 [info] [Debug - 4:37:07 AM] no definitions found for name "usage" of type 'statement' (35:25)
+2026-11-01 04:37:07.151 [info] [Debug - 4:37:07 AM] no definitions found for name "usage" of type 'statement' (36:11)
+2026-11-01 04:37:07.155 [info] [Debug - 4:37:07 AM] no definitions found for name "usage" of type 'statement' (38:44)
+2026-11-01 04:37:07.159 [info] [Debug - 4:37:07 AM] no definitions found for name "prompt_tokens" of type 'statement' (38:50)
+2026-11-01 04:37:07.164 [info] [Debug - 4:37:07 AM] no definitions found for name "usage" of type 'statement' (39:44)
+2026-11-01 04:37:07.168 [info] [Debug - 4:37:07 AM] no definitions found for name "completion_tokens" of type 'statement' (39:50)
+2026-11-01 04:37:07.173 [info] [Debug - 4:37:07 AM] no definitions found for name "usage" of type 'statement' (40:44)
+2026-11-01 04:37:07.176 [info] [Debug - 4:37:07 AM] no definitions found for name "total_tokens" of type 'statement' (40:50)
+2026-11-01 04:37:07.181 [info] [Debug - 4:37:07 AM] no definitions found for name "message_content" of type 'statement' (43:14)
+2026-11-01 04:37:07.185 [info] [Debug - 4:37:07 AM] no definitions found for name "strip" of type 'statement' (43:30)
+2026-11-01 04:37:07.190 [info] [Debug - 4:37:07 AM] no definitions found for name "e" of type 'statement' (46:36)
+2026-11-01 04:37:07.195 [info] [Debug - 4:37:07 AM] no definitions found for name "module OpenAI" of type 'module' (2:19)
+2026-11-01 04:37:07.200 [info] [Debug - 4:37:07 AM] no definitions found for name "module load_dotenv" of type 'module' (3:19)
+2026-11-01 04:42:10.923 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-0%20LLM%20Call.ipynb#W3sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:10.926 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-0%20LLM%20Call.ipynb#W4sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:11.206 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "23"
+
+2026-11-01 04:42:22.823 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-1%20Introduction%20to%20Python.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:22.827 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-1%20Introduction%20to%20Python.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-6:22
+2026-11-01 04:42:22.830 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "25"
+WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "24"
+
+2026-11-01 04:42:27.437 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:27.976 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-8:11
+2026-11-01 04:42:35.598 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "27"
+
+2026-11-01 04:42:35.599 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "29"
+
+2026-11-01 04:42:35.641 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "30"
+
+2026-11-01 04:42:35.642 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "32"
+
+2026-11-01 04:42:37.514 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "33"
+
+2026-11-01 04:42:37.515 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "34"
+
+2026-11-01 04:42:39.971 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "36"
+
+2026-11-01 04:42:39.972 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "38"
+
+2026-11-01 04:42:40.039 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "40"
+WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "43"
+
+2026-11-01 04:42:43.791 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "42"
+
+2026-11-01 04:42:43.792 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "44"
+
+2026-11-01 04:42:44.058 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "46"
+
+2026-11-01 04:42:44.059 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "47"
+
+2026-11-01 04:42:44.101 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "27": _pickle.UnpicklingError: invalid load key, 'f'.
+NoneType: None
+
+2026-11-01 04:42:44.101 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:44.107 [info] [Error - 4:42:44 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 04:42:44.110 [info]   Message: _pickle.UnpicklingError: invalid load key, 'f'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:44.120 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-0:13
+2026-11-01 04:42:44.120 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W4sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:44.125 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W4sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-3:76
+2026-11-01 04:42:44.130 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W6sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:44.134 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W6sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-15:19
+2026-11-01 04:42:44.138 [info] ERROR:pygls.protocol.json_rpc:Failed to handle request 51 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X15sdnNjb2RlLXJlbW90ZQ%3D%3D'), position=7:41, work_done_token=None)
+Traceback (most recent call last):
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 266, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 188, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi_language_server/notebook_utils.py", line 373, in wrapped
+    result = f(notebook_server, notebook_params)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi_language_server/server.py", line 486, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 681, in hover_text
+    header_plain = "\n".join(get_full_signatures(name))
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 626, in get_full_signatures
+    signatures = name.get_signatures()
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/api/classes.py", line 581, in get_signatures
+    for s in self._get_signatures()
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/api/classes.py", line 570, in _get_signatures
+    return [sig for name in names for sig in name.infer().get_signatures()]
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/api/classes.py", line 570, in <listcomp>
+    return [sig for name in names for sig in name.infer().get_signatures()]
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/base_value.py", line 516, in get_signatures
+    return [sig for c in self._set for sig in c.get_signatures()]
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/base_value.py", line 516, in <listcomp>
+    return [sig for c in self._set for sig in c.get_signatures()]
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/value/klass.py", line 228, in get_signatures
+    metaclasses = self.get_metaclasses()
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper
+    rv = function(obj, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/value/klass.py", line 381, in get_metaclasses
+    for value in lazy_base.infer():
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/lazy_value.py", line 48, in infer
+    return self.context.infer_node(self.data)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/context.py", line 224, in infer_node
+    return infer_node(self, node)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 157, in infer_node
+    return _infer_node_if_inferred(context, element)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 170, in _infer_node_if_inferred
+    return _infer_node_cached(context, element)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper
+    rv = function(obj, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 175, in _infer_node_cached
+    return _infer_node(context, element)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/debug.py", line 81, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 83, in wrapper
+    return func(context, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 185, in _infer_node
+    return infer_atom(context, element)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 305, in infer_atom
+    return context.py__getattribute__(atom, position=position)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/context.py", line 77, in py__getattribute__
+    values = ValueSet.from_sets(name.infer() for name in names)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/base_value.py", line 430, in from_sets
+    for set_ in sets:
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/context.py", line 77, in <genexpr>
+    values = ValueSet.from_sets(name.infer() for name in names)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/names.py", line 281, in infer
+    return tree_name_to_values(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/__init__.py", line 21, in wrapper
+    return built_functions[public_name](*args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/stdlib.py", line 878, in wrapper
+    return func(inference_state, context, tree_name)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/django.py", line 177, in wrapper
+    result = func(inference_state, context, tree_name)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 771, in tree_name_to_values
+    types = imports.infer_import(context, tree_name)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper
+    rv = function(obj, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 53, in infer_import
+    _prepare_infer_import(module_context, tree_name)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 116, in _prepare_infer_import
+    return from_import_name, tuple(import_path), import_node.level, importer.follow()
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 296, in follow
+    return import_module_by_names(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 376, in import_module_by_names
+    value_set = ValueSet.from_sets([
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 377, in <listcomp>
+    import_module(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/__init__.py", line 21, in wrapper
+    return built_functions[public_name](*args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/flask.py", line 20, in wrapper
+    return callback(inference_state, import_names, module_context, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/gradual/typeshed.py", line 115, in wrapper
+    python_value_set = ValueSet.from_sets(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/base_value.py", line 430, in from_sets
+    for set_ in sets:
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/gradual/typeshed.py", line 116, in <genexpr>
+    func(inference_state, import_names, p, sys_path,)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 411, in import_module
+    file_io_or_ns, is_pkg = inference_state.compiled_subprocess.get_module_info(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/compiled/subprocess/__init__.py", line 188, in wrapper
+    result = self._compiled_subprocess.run(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/compiled/subprocess/__init__.py", line 296, in run
+    return self._send(inference_state_id, function, args, kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/compiled/subprocess/__init__.py", line 318, in _send
+    is_exception, traceback, result = pickle_load(self._get_process().stdout)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/_compatibility.py", line 25, in pickle_load
+    return Unpickler(file).load()
+_pickle.UnpicklingError: invalid load key, '\x27'.
+ERROR:pygls.protocol.json_rpc:Exception occurred for message "29": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 04:42:44.147 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X10sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:44.151 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "33": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+ERROR:pygls.protocol.json_rpc:Exception occurred for message "36": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+ERROR:pygls.protocol.json_rpc:Exception occurred for message "40": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+ERROR:pygls.protocol.json_rpc:Exception occurred for message "42": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+ERROR:pygls.protocol.json_rpc:Exception occurred for message "50": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+ERROR:pygls.protocol.json_rpc:Exception occurred for message "49": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 04:42:44.156 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X12sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:44.161 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X10sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-0:25
+2026-11-01 04:42:44.165 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X12sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-28:19
+2026-11-01 04:42:44.169 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X13sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:44.173 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X13sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-0:31
+2026-11-01 04:42:44.178 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X15sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:44.182 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X15sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-32:19
+2026-11-01 04:42:44.190 [info] [Error - 4:42:44 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 04:42:44.194 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:44.203 [info] [Error - 4:42:44 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 04:42:44.203 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:44.212 [info] [Error - 4:42:44 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 04:42:44.212 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:44.225 [info] [Error - 4:42:44 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 04:42:44.230 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:44.239 [info] [Error - 4:42:44 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 04:42:44.239 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:44.253 [info] [Error - 4:42:44 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 04:42:44.253 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:44.263 [info] [Error - 4:42:44 AM] Request textDocument/hover failed.
+2026-11-01 04:42:44.263 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:44.272 [info] [Error - 4:42:44 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 04:42:44.272 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:44.600 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X16sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:45.188 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "55": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 04:42:45.188 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X21sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:45.193 [info] [Error - 4:42:45 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 04:42:45.198 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:45.673 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X21sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-17:19
+2026-11-01 04:42:45.674 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "56": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 04:42:45.678 [info] [Error - 4:42:45 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 04:42:45.682 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:46.703 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X22sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:46.704 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "57": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 04:42:46.707 [info] [Error - 4:42:46 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 04:42:46.711 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:47.174 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X22sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-0:37
+2026-11-01 04:42:47.175 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "58": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 04:42:47.179 [info] [Error - 4:42:47 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 04:42:47.183 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:47.543 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X24sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:47.545 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "60": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 04:42:47.548 [info] [Error - 4:42:47 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 04:42:47.552 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:48.037 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X24sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-34:61
+2026-11-01 04:42:48.040 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "61": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 04:42:48.043 [info] [Error - 4:42:48 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 04:42:48.047 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 04:42:49.597 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X25sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 04:42:51.660 [info] ERROR:pygls.protocol.json_rpc:Failed to handle request 65 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X24sdnNjb2RlLXJlbW90ZQ%3D%3D'), position=16:46, work_done_token=None)
+Traceback (most recent call last):
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 266, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 188, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi_language_server/notebook_utils.py", line 373, in wrapped
+    result = f(notebook_server, notebook_params)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi_language_server/server.py", line 486, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 681, in hover_text
+    header_plain = "\n".join(get_full_signatures(name))
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 626, in get_full_signatures
+    signatures = name.get_signatures()
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/api/classes.py", line 581, in get_signatures
+    for s in self._get_signatures()
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/api/classes.py", line 570, in _get_signatures
+    return [sig for name in names for sig in name.infer().get_signatures()]
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/api/classes.py", line 570, in <listcomp>
+    return [sig for name in names for sig in name.infer().get_signatures()]
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/names.py", line 281, in infer
+    return tree_name_to_values(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/__init__.py", line 21, in wrapper
+    return built_functions[public_name](*args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/stdlib.py", line 878, in wrapper
+    return func(inference_state, context, tree_name)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/django.py", line 177, in wrapper
+    result = func(inference_state, context, tree_name)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 758, in tree_name_to_values
+    types = infer_expr_stmt(context, node, tree_name)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 83, in wrapper
+    return func(context, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 377, in infer_expr_stmt
+    return _infer_expr_stmt(context, stmt, seek_name)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/debug.py", line 81, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 410, in _infer_expr_stmt
+    value_set = context.infer_node(rhs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/context.py", line 224, in infer_node
+    return infer_node(self, node)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 157, in infer_node
+    return _infer_node_if_inferred(context, element)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 170, in _infer_node_if_inferred
+    return _infer_node_cached(context, element)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper
+    rv = function(obj, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 175, in _infer_node_cached
+    return _infer_node(context, element)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/debug.py", line 81, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 83, in wrapper
+    return func(context, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 185, in _infer_node
+    return infer_atom(context, element)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/syntax_tree.py", line 327, in infer_atom
+    return compiled.get_string_value_set(state)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/compiled/__init__.py", line 59, in get_string_value_set
+    return builtin_from_name(inference_state, 'str').execute_with_values()
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/compiled/__init__.py", line 10, in builtin_from_name
+    typing_builtins_module = inference_state.builtins_module
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper
+    rv = function(obj, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/__init__.py", line 129, in builtins_module
+    builtins_module, = self.import_module((module_name,), sys_path=[])
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/__init__.py", line 112, in import_module
+    return imports.import_module_by_names(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 376, in import_module_by_names
+    value_set = ValueSet.from_sets([
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 377, in <listcomp>
+    import_module(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/__init__.py", line 21, in wrapper
+    return built_functions[public_name](*args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/flask.py", line 20, in wrapper
+    return callback(inference_state, import_names, module_context, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/gradual/typeshed.py", line 115, in wrapper
+    python_value_set = ValueSet.from_sets(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/base_value.py", line 430, in from_sets
+    for set_ in sets:
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/gradual/typeshed.py", line 116, in <genexpr>
+    func(inference_state, import_names, p, sys_path,)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 411, in import_module
+    file_io_or_ns, is_pkg = inference_state.compiled_subprocess.get_module_info(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/compiled/subprocess/__init__.py", line 188, in wrapper
+    result = self._compiled_subprocess.run(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/compiled/subprocess/__init__.py", line 293, in run
+    self._send(delete_id, None)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/compiled/subprocess/__init__.py", line 318, in _send
+    is_exception, traceback, result = pickle_load(self._get_process().stdout)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/_compatibility.py", line 25, in pickle_load
+    return Unpickler(file).load()
+_pickle.UnpicklingError: invalid load key, '\x27'.
+
+2026-11-01 04:42:51.665 [info] [Error - 4:42:51 AM] Request textDocument/hover failed.
+2026-11-01 04:42:51.670 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:01.302 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X24sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-34:61
+2026-11-01 05:04:01.306 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "68": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:01.310 [info] [Error - 5:04:01 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:01.315 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:07.082 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X22sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:07.084 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "69": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:07.088 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "71": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:07.093 [info] [Error - 5:04:07 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:07.097 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:07.109 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X21sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:07.109 [info] [Error - 5:04:07 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:07.113 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:07.173 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X24sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-34:61
+2026-11-01 05:04:07.175 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "72": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:07.178 [info] [Error - 5:04:07 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:07.183 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:07.523 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X16sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:07.526 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X21sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-17:19
+2026-11-01 05:04:07.528 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "75": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:07.532 [info] [Error - 5:04:07 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:07.537 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:07.745 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X15sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:07.746 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "77": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:07.749 [info] [Error - 5:04:07 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:07.753 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:08.248 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X15sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-32:19
+2026-11-01 05:04:08.250 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "78": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:08.254 [info] [Error - 5:04:08 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:08.262 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:08.542 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X13sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:08.813 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X12sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:08.815 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "82": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:08.819 [info] [Error - 5:04:08 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:08.823 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:08.861 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X15sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-32:19
+2026-11-01 05:04:08.863 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "83": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:08.866 [info] [Error - 5:04:08 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:08.871 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:09.246 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X12sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-28:19
+2026-11-01 05:04:09.248 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "84": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:09.251 [info] [Error - 5:04:09 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:09.256 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:09.504 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X10sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:09.507 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W6sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:09.509 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "88": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:09.514 [info] [Error - 5:04:09 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:09.518 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:09.723 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W4sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:09.724 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "90": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:09.728 [info] [Error - 5:04:09 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:09.732 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:09.876 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:09.878 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:09.882 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "94": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:09.887 [info] [Error - 5:04:09 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:09.891 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:11.254 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:11.254 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "96": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:11.259 [info] [Error - 5:04:11 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:11.263 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:11.740 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-8:11
+2026-11-01 05:04:11.741 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "97": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:11.745 [info] [Error - 5:04:11 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:11.749 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:11.802 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W2sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:11.911 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W4sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:11.913 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "101": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:11.918 [info] [Error - 5:04:11 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:11.923 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:12.360 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W4sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-3:76
+2026-11-01 05:04:12.361 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "102": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:12.365 [info] [Error - 5:04:12 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:12.369 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:15.905 [info] ERROR:pygls.protocol.json_rpc:Failed to handle request 103 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W1sdnNjb2RlLXJlbW90ZQ%3D%3D'), position=4:41, work_done_token=None)
+Traceback (most recent call last):
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 266, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 188, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi_language_server/notebook_utils.py", line 373, in wrapped
+    result = f(notebook_server, notebook_params)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi_language_server/server.py", line 487, in hover
+    jedi_script.help(*jedi_lines),
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/api/__init__.py", line 372, in help
+    definitions = self.goto(line, column, follow_imports=True)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/api/__init__.py", line 300, in goto
+    names = list(name.goto())
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/names.py", line 157, in goto
+    module_names = goto_import(context, name)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/cache.py", line 44, in wrapper
+    rv = function(obj, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 75, in goto_import
+    _prepare_infer_import(module_context, tree_name)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 116, in _prepare_infer_import
+    return from_import_name, tuple(import_path), import_node.level, importer.follow()
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 296, in follow
+    return import_module_by_names(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 376, in import_module_by_names
+    value_set = ValueSet.from_sets([
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 377, in <listcomp>
+    import_module(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/__init__.py", line 21, in wrapper
+    return built_functions[public_name](*args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/plugins/flask.py", line 20, in wrapper
+    return callback(inference_state, import_names, module_context, *args, **kwargs)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/gradual/typeshed.py", line 115, in wrapper
+    python_value_set = ValueSet.from_sets(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/base_value.py", line 430, in from_sets
+    for set_ in sets:
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/gradual/typeshed.py", line 116, in <genexpr>
+    func(inference_state, import_names, p, sys_path,)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/imports.py", line 411, in import_module
+    file_io_or_ns, is_pkg = inference_state.compiled_subprocess.get_module_info(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/compiled/subprocess/__init__.py", line 188, in wrapper
+    result = self._compiled_subprocess.run(
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/compiled/subprocess/__init__.py", line 293, in run
+    self._send(delete_id, None)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/inference/compiled/subprocess/__init__.py", line 318, in _send
+    is_exception, traceback, result = pickle_load(self._get_process().stdout)
+  File "/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/lib/jedilsp/jedi/_compatibility.py", line 25, in pickle_load
+    return Unpickler(file).load()
+_pickle.UnpicklingError: invalid load key, '\x27'.
+
+2026-11-01 05:04:15.906 [info] [Error - 5:04:15 AM] Request textDocument/hover failed.
+2026-11-01 05:04:15.911 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:27.816 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W4sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:27.818 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "107": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:27.824 [info] [Error - 5:04:27 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:27.827 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:28.285 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W4sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-3:76
+2026-11-01 05:04:28.286 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "108": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:28.290 [info] [Error - 5:04:28 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:28.294 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:33.721 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W6sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:33.722 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "112": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:33.727 [info] [Error - 5:04:33 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:33.731 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:34.185 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W6sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-15:19
+2026-11-01 05:04:34.186 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "113": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:34.190 [info] [Error - 5:04:34 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:34.195 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:36.614 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X10sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:48.735 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X12sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:48.736 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "120": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:48.741 [info] [Error - 5:04:48 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:48.745 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:49.200 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X12sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-28:19
+2026-11-01 05:04:49.203 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "121": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:49.205 [info] [Error - 5:04:49 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:49.209 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:49.378 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X13sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:50.556 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X15sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:50.557 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "125": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:50.561 [info] [Error - 5:04:50 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:50.565 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:51.035 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X15sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-32:19
+2026-11-01 05:04:51.036 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "126": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:51.040 [info] [Error - 5:04:51 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:51.044 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:51.147 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X16sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:51.611 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X15sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-32:19
+2026-11-01 05:04:51.613 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "129": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:51.619 [info] [Error - 5:04:51 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:51.627 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:52.349 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X21sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:52.351 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "131": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:52.357 [info] [Error - 5:04:52 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:52.366 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:52.826 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X21sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-17:19
+2026-11-01 05:04:52.827 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "132": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:52.835 [info] [Error - 5:04:52 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:52.842 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:52.970 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X22sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:52.971 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "133": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:52.981 [info] [Error - 5:04:52 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:52.987 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:53.441 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X22sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-0:37
+2026-11-01 05:04:53.442 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "134": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:53.450 [info] [Error - 5:04:53 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:53.458 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:54.399 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X24sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:54.402 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "136": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:54.408 [info] [Error - 5:04:54 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:54.416 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:54.875 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X24sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-34:61
+2026-11-01 05:04:54.877 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "137": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:54.883 [info] [Error - 5:04:54 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:54.891 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:55.019 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X25sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:55.496 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X24sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-34:61
+2026-11-01 05:04:55.498 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "140": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:55.505 [info] [Error - 5:04:55 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:55.513 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:56.112 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X30sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:56.115 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "142": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:56.121 [info] [Error - 5:04:56 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:04:56.129 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:56.574 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X31sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:04:57.037 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X30sdnNjb2RlLXJlbW90ZQ%3D%3D 5:0-61:65
+2026-11-01 05:04:57.040 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "145": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:04:57.051 [info] [Error - 5:04:57 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:04:57.060 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:04:57.116 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X32sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:05:01.918 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X25sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:05:01.918 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X24sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:05:01.931 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "150": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+ERROR:pygls.protocol.json_rpc:Exception occurred for message "149": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:05:01.940 [info] [Error - 5:05:01 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:05:01.948 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:05:01.963 [info] [Error - 5:05:01 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:05:01.964 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:05:02.360 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X21sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:05:02.362 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "154": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:05:02.372 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "156": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:05:02.381 [info] [Error - 5:05:02 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:05:02.390 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:05:02.403 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X16sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:05:02.407 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X15sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:05:02.415 [info] [Error - 5:05:02 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:05:02.423 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:05:02.651 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X13sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:05:02.654 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X12sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:05:02.660 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "160": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:05:02.668 [info] [Error - 5:05:02 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:05:02.676 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:05:02.719 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#X10sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:05:02.771 [info] semantic_tokens_full vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W6sdnNjb2RlLXJlbW90ZQ%3D%3D 
+2026-11-01 05:05:02.773 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "164": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:05:02.780 [info] [Error - 5:05:02 AM] Request textDocument/semanticTokens/full failed.
+2026-11-01 05:05:02.788 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]
+2026-11-01 05:05:03.245 [info] semantic_tokens_range vscode-notebook-cell://vocproxy-1-95.us-west-2.vocareum.com/voc/work/W4_package/demo/Week%204-2%20Output%20Parsers.ipynb#W6sdnNjb2RlLXJlbW90ZQ%3D%3D 0:0-15:19
+2026-11-01 05:05:03.247 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "167": _pickle.UnpicklingError: invalid load key, '\x27'.
+NoneType: None
+
+2026-11-01 05:05:03.254 [info] [Error - 5:05:03 AM] Request textDocument/semanticTokens/range failed.
+2026-11-01 05:05:03.263 [info]   Message: _pickle.UnpicklingError: invalid load key, '\x27'.
+  Code: -32603 
+[object Object]

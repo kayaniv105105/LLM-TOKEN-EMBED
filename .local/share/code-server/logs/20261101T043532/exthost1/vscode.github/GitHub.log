@@ -1,0 +1,3 @@
+2026-11-01 04:35:47.296 [info] Log level: Info
+2026-11-01 04:35:50.294 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2026-11-01 05:14:16.232 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for kayaniv105105/LLM-TOKEN-EMBED: Error: No GitHub authentication session available.
